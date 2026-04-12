@@ -1,0 +1,58 @@
+# Tue 23:38:49 31-Mar-2026
+begin	aperture 2043a_tbfi 1 223.7046 1017.
+	image	2043a_tbfi
+	aperture	1
+	beam	1
+	center	223.7046 1017.
+	low	-6.328339 -1016.
+	high	6.327591 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		627.
+		2027.
+		-3.827075
+		-7.820302
+		1.492397
+
+# Tue 23:38:49 31-Mar-2026
+begin	aperture 2043a_tbfi 2 321.1214 1017.
+	image	2043a_tbfi
+	aperture	2
+	beam	2
+	center	321.1214 1017.
+	low	-4.0578 -1016.
+	high	4.509888 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		147.
+		2027.
+		-2.024448
+		-10.77632
+		-3.181053
+

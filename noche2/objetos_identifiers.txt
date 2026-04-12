@@ -1,0 +1,29 @@
+2026o_tbfic.fit,kopff27
+2028o_tbfic.fit,kopff27
+2029o_tbfic.fit,A2170-03
+2031o_tbfic.fit,A2170-03
+2032o_tbfic.fit,A2170-03
+2034o_tbfic.fit,A2243-04
+2036o_tbfic.fit,A2243-04
+2037o_tbfic.fit,A2243-04
+2039o_tbfic.fit,A2469-12
+2041o_tbfic.fit,A2469-12
+2042o_tbfic.fit,A2469-12
+2044o_tbfic.fit,,A2469-12
+2045o_tbfic.fit,A0084-01
+2047o_tbfic.fit,A0084-01
+
+
+2026o_tbfic.fit <-- 2027a_tbfi.fit
+2028o_tbfic.fit <-- 2027a2_tbfi.fit
+2029o_tbfic.fit <-- 2030a_tbfi.fit
+2031o_tbfic.fit <-- 2030a2_tbfi.fit
+2032o_tbfic.fit <-- 2033a_tbfi.fit
+2034o_tbfic.fit <-- 2035a_tbfi.fit
+2036o_tbfic.fit <-- 2035a2_tbfi.fit
+2037o_tbfic.fit <-- 2038a_tbfi.fit
+2039o_tbfic.fit <-- 2040a_tbfi.fit
+2041o_tbfic.fit <-- 2040a2_tbfi.fit
+2042o_tbfic.fit <-- 2043a_tbfi.fit
+2045o_tbfic.fit <-- 2046a_tbfi.fit
+2047o_tbfic.fit <-- 2046a2_tbfi.fit

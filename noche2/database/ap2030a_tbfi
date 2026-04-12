@@ -1,0 +1,58 @@
+# Tue 23:38:49 31-Mar-2026
+begin	aperture 2030a_tbfi 1 192.4266 1017.
+	image	2030a_tbfi
+	aperture	1
+	beam	1
+	center	192.4266 1017.
+	low	-4.247467 -1016.
+	high	4.860733 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		7.
+		2027.
+		-0.3037825
+		-12.48703
+		-0.7687041
+
+# Tue 23:38:49 31-Mar-2026
+begin	aperture 2030a_tbfi 2 234.5601 1017.
+	image	2030a_tbfi
+	aperture	2
+	beam	2
+	center	234.5601 1017.
+	low	-9.236221 -1016.
+	high	10.17818 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		17.
+		2027.
+		-0.2782143
+		-12.54623
+		-0.972158
+

@@ -1,0 +1,29 @@
+# Sun 21:42:30 29-Mar-2026
+begin	aperture 2028o_tbfic 1 237.0536 1017.
+	image	2028o_tbfic
+	aperture	1
+	beam	1
+	center	237.0536 1017.
+	low	-3.90741 -1016.
+	high	4.417908 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		7.
+		2027.
+		0.1755606
+		-14.67557
+		0.2098918
+

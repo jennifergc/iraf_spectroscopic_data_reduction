@@ -1,0 +1,29 @@
+# Mon 15:18:57 30-Mar-2026
+begin	aperture 2039o_tbfic 1 225.6785 1017.
+	image	2039o_tbfic
+	aperture	1
+	beam	1
+	center	225.6785 1017.
+	low	-4.987549 -1016.
+	high	8.029816 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		7.
+		2027.
+		-0.1092758
+		-12.62505
+		-0.7531139
+

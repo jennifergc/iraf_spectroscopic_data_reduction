@@ -1,0 +1,29 @@
+# Tue 23:38:49 31-Mar-2026
+begin	aperture 2046a_tbfi 1 236.7236 1017.
+	image	2046a_tbfi
+	aperture	1
+	beam	1
+	center	236.7236 1017.
+	low	-5. -1016.
+	high	5. 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		7.
+		2027.
+		-0.203397
+		-12.99902
+		-0.3995752
+

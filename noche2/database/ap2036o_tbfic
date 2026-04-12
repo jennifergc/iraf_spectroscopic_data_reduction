@@ -1,0 +1,58 @@
+# Mon 15:10:45 30-Mar-2026
+begin	aperture 2036o_tbfic 1 244.0872 1017.
+	image	2036o_tbfic
+	aperture	1
+	beam	1
+	center	244.0872 1017.
+	low	-6.872604 -1016.
+	high	7.916214 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		7.
+		2027.
+		-0.4834807
+		-12.71482
+		-1.115054
+
+# Mon 15:10:45 30-Mar-2026
+begin	aperture 2036o_tbfic 2 292.2664 1017.
+	image	2036o_tbfic
+	aperture	2
+	beam	2
+	center	292.2664 1017.
+	low	-6.733643 -1016.
+	high	7.081543 1017.
+	background
+		xmin -30.
+		xmax 30.
+		function chebyshev
+		order 2
+		sample -30:-15,15:30
+		naverage -3
+		niterate 1
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		227.
+		2027.
+		-1.725774
+		-12.17915
+		-0.7756552
+

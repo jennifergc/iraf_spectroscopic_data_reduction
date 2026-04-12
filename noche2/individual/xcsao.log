@@ -1,0 +1,281 @@
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:01
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:27
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:30
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7080.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 1
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:31
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7080.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 1
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:32
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7080.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 1
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:51
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7214.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 3
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.709 h:0.332 R:   5.05 CZ: 17003.9 +/-  48.184 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:   0.751 h:0.325 R:   4.67 CZ: 17050.3 +/-  51.765 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.346 h:0.309 R:   4.34 CZ: 17128.9 +/-  46.705 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.240 h:0.326 R:   4.45 CZ: 17105.6 +/-  46.726 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.666 h:0.315 R:   4.34 CZ: 17063.2 +/-  54.668 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:  -0.706 h:0.333 R:   4.53 CZ: 17081.2 +/-  45.037 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   1.171 h:0.341 R:   4.77 CZ: 17040.7 +/-  46.438 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak:  -1.146 h:0.341 R:   4.78 CZ: 17040.9 +/-  46.398 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.496 h:0.305 R:   4.22 CZ: 17104.2 +/-  46.687 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:54
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7214.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 3
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.709 h:0.332 R:   5.05 CZ: 17003.9 +/-  48.184 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:   0.751 h:0.325 R:   4.67 CZ: 17050.3 +/-  51.765 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.346 h:0.309 R:   4.34 CZ: 17128.9 +/-  46.705 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.240 h:0.326 R:   4.45 CZ: 17105.6 +/-  46.726 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.666 h:0.315 R:   4.34 CZ: 17063.2 +/-  54.668 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:  -0.706 h:0.333 R:   4.53 CZ: 17081.2 +/-  45.037 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   1.171 h:0.341 R:   4.77 CZ: 17040.7 +/-  46.438 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak:  -1.146 h:0.341 R:   4.78 CZ: 17040.9 +/-  46.398 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.496 h:0.305 R:   4.22 CZ: 17104.2 +/-  46.687 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:56
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7214.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 3
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.709 h:0.332 R:   5.05 CZ: 17003.9 +/-  48.184 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:   0.751 h:0.325 R:   4.67 CZ: 17050.3 +/-  51.765 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.346 h:0.309 R:   4.34 CZ: 17128.9 +/-  46.705 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.240 h:0.326 R:   4.45 CZ: 17105.6 +/-  46.726 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.666 h:0.315 R:   4.34 CZ: 17063.2 +/-  54.668 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:  -0.706 h:0.333 R:   4.53 CZ: 17081.2 +/-  45.037 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   1.171 h:0.341 R:   4.77 CZ: 17040.7 +/-  46.438 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak:  -1.146 h:0.341 R:   4.78 CZ: 17040.9 +/-  46.398 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.496 h:0.305 R:   4.22 CZ: 17104.2 +/-  46.687 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 18:58
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7214.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 3
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.709 h:0.332 R:   5.05 CZ: 17003.9 +/-  48.184 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:   0.751 h:0.325 R:   4.67 CZ: 17050.3 +/-  51.765 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.346 h:0.309 R:   4.34 CZ: 17128.9 +/-  46.705 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.240 h:0.326 R:   4.45 CZ: 17105.6 +/-  46.726 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.666 h:0.315 R:   4.34 CZ: 17063.2 +/-  54.668 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:  -0.706 h:0.333 R:   4.53 CZ: 17081.2 +/-  45.037 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   1.171 h:0.341 R:   4.77 CZ: 17040.7 +/-  46.438 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak:  -1.146 h:0.341 R:   4.78 CZ: 17040.9 +/-  46.398 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.496 h:0.305 R:   4.22 CZ: 17104.2 +/-  46.687 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 19:07
+
+kopff27_sum.fits Object: Kopff 
+RA: 17:41:28.40 Dec: 05:26:04.0 2007.6
+2007-Aug-14 03:52:10.00 =HJD2454326.6641 BCV: -21.28
+4599.9A- 6994.0A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 9
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40115.8 h:0.292 R:   2.89 CZ: 140039.4 +/-  63.936 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 48665.6 h:0.160 R:   1.63 CZ: 44486.1 +/- 499.392 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.060 h:0.524 R:   5.16 CZ: -280.99 +/-  66.360 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak: 29916.6 h:0.421 R:   3.93 CZ: 126814.2 +/- 107.677 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:   0.173 h:0.398 R:   4.20 CZ: -270.78 +/-  64.389 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:   0.001 h:0.424 R:   4.72 CZ: -275.00 +/-  63.068 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40109.6 h:0.295 R:   2.93 CZ: 140035.2 +/-  62.387 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.143 h:0.355 R:   4.52 CZ: -275.00 +/-  56.914 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.184 h:0.535 R:   6.20 CZ: -278.45 +/-  55.781 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 71127.7 h:0.320 R:   2.79 CZ: 170297.5 +/- 127.912 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.007 h:0.440 R:   5.59 CZ: -269.28 +/-  46.656 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 19:08
+
+kopff27_sum.fits Object: Kopff 
+RA: 17:41:28.40 Dec: 05:26:04.0 2007.6
+2007-Aug-14 03:52:10.00 =HJD2454326.6641 BCV: -21.28
+4599.9A- 6994.0A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 9
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40115.8 h:0.292 R:   2.89 CZ: 140039.4 +/-  63.936 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 48665.6 h:0.160 R:   1.63 CZ: 44486.1 +/- 499.392 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.060 h:0.524 R:   5.16 CZ: -280.99 +/-  66.360 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak: 29916.6 h:0.421 R:   3.93 CZ: 126814.2 +/- 107.677 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:   0.173 h:0.398 R:   4.20 CZ: -270.78 +/-  64.389 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:   0.001 h:0.424 R:   4.72 CZ: -275.00 +/-  63.068 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40109.6 h:0.295 R:   2.93 CZ: 140035.2 +/-  62.387 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.143 h:0.355 R:   4.52 CZ: -275.00 +/-  56.914 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.184 h:0.535 R:   6.20 CZ: -278.45 +/-  55.781 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 71127.7 h:0.320 R:   2.79 CZ: 170297.5 +/- 127.912 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.007 h:0.440 R:   5.59 CZ: -269.28 +/-  46.656 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 19:09
+
+kopff27_sum.fits Object: Kopff 
+RA: 17:41:28.40 Dec: 05:26:04.0 2007.6
+2007-Aug-14 03:52:10.00 =HJD2454326.6641 BCV: -21.28
+4599.9A- 6994.0A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 9
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40115.8 h:0.292 R:   2.89 CZ: 140039.4 +/-  63.936 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 48665.6 h:0.160 R:   1.63 CZ: 44486.1 +/- 499.392 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.060 h:0.524 R:   5.16 CZ: -280.99 +/-  66.360 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak: 29916.6 h:0.421 R:   3.93 CZ: 126814.2 +/- 107.677 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:   0.173 h:0.398 R:   4.20 CZ: -270.78 +/-  64.389 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:   0.001 h:0.424 R:   4.72 CZ: -275.00 +/-  63.068 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40109.6 h:0.295 R:   2.93 CZ: 140035.2 +/-  62.387 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.143 h:0.355 R:   4.52 CZ: -275.00 +/-  56.914 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.184 h:0.535 R:   6.20 CZ: -278.45 +/-  55.781 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 71127.7 h:0.320 R:   2.79 CZ: 170297.5 +/- 127.912 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.007 h:0.440 R:   5.59 CZ: -269.28 +/-  46.656 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:13
+
+kopff27_sum.fits Object: Kopff 
+RA: 17:41:28.40 Dec: 05:26:04.0 2007.6
+2007-Aug-14 03:52:10.00 =HJD2454326.6641 BCV: -21.28
+4599.9A- 6994.0A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 9
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40115.8 h:0.292 R:   2.89 CZ: 140039.4 +/-  63.936 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 48665.6 h:0.160 R:   1.63 CZ: 44486.1 +/- 499.392 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.060 h:0.524 R:   5.16 CZ: -280.99 +/-  66.360 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak: 29916.6 h:0.421 R:   3.93 CZ: 126814.2 +/- 107.677 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:   0.173 h:0.398 R:   4.20 CZ: -270.78 +/-  64.389 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:   0.001 h:0.424 R:   4.72 CZ: -275.00 +/-  63.068 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40109.6 h:0.295 R:   2.93 CZ: 140035.2 +/-  62.387 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.143 h:0.355 R:   4.52 CZ: -275.00 +/-  56.914 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.184 h:0.535 R:   6.20 CZ: -278.45 +/-  55.781 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 71127.7 h:0.320 R:   2.79 CZ: 170297.5 +/- 127.912 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.007 h:0.440 R:   5.59 CZ: -269.28 +/-  46.656 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:16
+
+kopff27_sum.fits Object: Kopff 
+RA: 17:41:28.40 Dec: 05:26:04.0 2007.6
+2007-Aug-14 03:52:10.00 =HJD2454326.6641 BCV: -21.28
+4599.9A- 6994.0A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 9
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40115.8 h:0.292 R:   2.89 CZ: 140039.4 +/-  63.936 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 48665.6 h:0.160 R:   1.63 CZ: 44486.1 +/- 499.392 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.060 h:0.524 R:   5.16 CZ: -280.99 +/-  66.360 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak: 29916.6 h:0.421 R:   3.93 CZ: 126814.2 +/- 107.677 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:   0.173 h:0.398 R:   4.20 CZ: -270.78 +/-  64.389 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:   0.001 h:0.424 R:   4.72 CZ: -275.00 +/-  63.068 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 40109.6 h:0.295 R:   2.93 CZ: 140035.2 +/-  62.387 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.143 h:0.355 R:   4.52 CZ: -275.00 +/-  56.914 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.184 h:0.535 R:   6.20 CZ: -278.45 +/-  55.781 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 71127.7 h:0.320 R:   2.79 CZ: 170297.5 +/- 127.912 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.007 h:0.440 R:   5.59 CZ: -269.28 +/-  46.656 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:19
+
+A0084-01_sum.fits Object: A0084-01 
+RA: 00:41:14.10 Dec: 21:17:38.0 2007.6
+2007-Aug-14 09:12:22.00 =HJD2454326.8867 BCV:  23.69
+4597.2A- 7214.8A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 3
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.178 h:0.318 R:   4.39 CZ: 17064.0 +/-  53.537 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   2.612 h:0.115 R:   2.14 CZ: 61695.1 +/-  59.465 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.709 h:0.332 R:   5.05 CZ: 17003.9 +/-  48.184 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:   0.751 h:0.325 R:   4.67 CZ: 17050.3 +/-  51.765 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.346 h:0.309 R:   4.34 CZ: 17128.9 +/-  46.705 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.240 h:0.326 R:   4.45 CZ: 17105.6 +/-  46.726 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.666 h:0.315 R:   4.34 CZ: 17063.2 +/-  54.668 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:  -0.706 h:0.333 R:   4.53 CZ: 17081.2 +/-  45.037 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   1.171 h:0.341 R:   4.77 CZ: 17040.7 +/-  46.438 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak:  -1.146 h:0.341 R:   4.78 CZ: 17040.9 +/-  46.398 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.496 h:0.305 R:   4.22 CZ: 17104.2 +/-  46.687 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:20
+
+A2170-03_sum.fits Object: A2170-03 
+RA: 16:16:56.20 Dec: 23:17:15.0 2007.6
+2007-Aug-14 04:26:54.00 =HJD2454326.6857 BCV: -20.80
+4603.7A- 7213.6A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 8
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.028 h:0.633 R:  11.28 CZ:  95.707 +/-  19.654 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.334 h:0.091 R:   1.12 CZ: 2340.10 +/- 270.902 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.024 h:0.605 R:   8.51 CZ:  83.656 +/-  27.259 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:  -0.015 h:0.488 R:   6.76 CZ:  93.426 +/-  30.956 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.026 h:0.656 R:  11.36 CZ:  87.749 +/-  18.176 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.109 h:0.646 R:  11.37 CZ:  88.207 +/-  19.213 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.030 h:0.618 R:  10.65 CZ:  96.930 +/-  20.515 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.004 h:0.679 R:  12.48 CZ:  98.950 +/-  15.909 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.056 h:0.625 R:   9.01 CZ:  87.303 +/-  23.454 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 24653.9 h:0.202 R:   2.75 CZ: 170250.1 +/-  80.303 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.033 h:0.674 R:  11.64 CZ:  93.056 +/-  15.885 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:22
+
+A2243-04_sum.fits Object: A2243-04 
+RA: 17:01:53.00 Dec: 35:03:02.0 2007.6
+2007-Aug-14 05:53:24.00 =HJD2454326.7463 BCV: -14.92
+4596.0A- 7213.3A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 4
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.221 h:0.628 R:   8.35 CZ: 31371.2 +/-  35.579 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak: 59262.6 h:0.243 R:   3.18 CZ: 76464.7 +/-  27.236 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.288 h:0.626 R:   9.07 CZ: 31337.1 +/-  33.555 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:   0.314 h:0.648 R:   9.24 CZ: 31351.0 +/-  33.309 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:   0.286 h:0.589 R:   8.57 CZ: 31396.1 +/-  30.222 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:   0.436 h:0.592 R:   8.74 CZ: 31397.2 +/-  30.327 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.212 h:0.623 R:   8.36 CZ: 31373.1 +/-  35.262 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.492 h:0.588 R:   8.23 CZ: 31389.5 +/-  30.615 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   1.476 h:0.568 R:   7.55 CZ: 31366.4 +/-  39.495 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak:   1.346 h:0.568 R:   7.55 CZ: 31366.4 +/-  39.497 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -1.165 h:0.575 R:   8.08 CZ: 31382.3 +/-  31.219 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:23
+
+A2469-12_sum.fits Object: A2469-12 
+RA: 22:40:01.80 Dec: 12:10:56.0 2007.6
+2007-Aug-14 07:06:32.00 =HJD2454326.8012 BCV:  11.73
+4598.0A- 7215.7A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 10
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.377 h:0.328 R:   4.46 CZ: 29570.2 +/-  70.376 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.276 h:0.094 R:   1.65 CZ: 17472.1 +/-  75.380 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.027 h:0.354 R:   4.81 CZ: 29487.5 +/-  60.846 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:  -0.333 h:0.337 R:   4.70 CZ: 29564.5 +/-  71.080 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:   0.207 h:0.302 R:   4.19 CZ: 29525.0 +/-  74.751 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.069 h:0.305 R:   4.29 CZ: 29542.5 +/-  71.025 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.057 h:0.328 R:   4.39 CZ: 29571.3 +/-  71.305 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:  -0.737 h:0.300 R:   4.28 CZ: 29501.4 +/-  69.841 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   1.291 h:0.314 R:   5.22 CZ: 29481.6 +/-  56.295 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak:  -1.834 h:0.315 R:   5.24 CZ: 29479.3 +/-  56.122 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.392 h:0.310 R:   4.39 CZ: 29508.1 +/-  69.001 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:25
+
+A2170-03_sum.fits Object: A2170-03 
+RA: 16:16:56.20 Dec: 23:17:15.0 2007.6
+2007-Aug-14 04:26:54.00 =HJD2454326.6857 BCV: -20.80
+4603.7A- 7213.6A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 8
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.028 h:0.633 R:  11.28 CZ:  95.707 +/-  19.654 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.334 h:0.091 R:   1.12 CZ: 2340.10 +/- 270.902 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.024 h:0.605 R:   8.51 CZ:  83.656 +/-  27.259 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:  -0.015 h:0.488 R:   6.76 CZ:  93.426 +/-  30.956 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.026 h:0.656 R:  11.36 CZ:  87.749 +/-  18.176 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.109 h:0.646 R:  11.37 CZ:  88.207 +/-  19.213 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.030 h:0.618 R:  10.65 CZ:  96.930 +/-  20.515 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.004 h:0.679 R:  12.48 CZ:  98.950 +/-  15.909 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.056 h:0.625 R:   9.01 CZ:  87.303 +/-  23.454 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 24653.9 h:0.202 R:   2.75 CZ: 170250.1 +/-  80.303 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.033 h:0.674 R:  11.64 CZ:  93.056 +/-  15.885 1
+IRAF rvsao.xcsao 2.8.2 jennifer@jennifer  11-Apr-2026 20:33
+
+A2170-03_sum.fits Object: A2170-03 
+RA: 16:16:56.20 Dec: 23:17:15.0 2007.6
+2007-Aug-14 04:26:54.00 =HJD2454326.6857 BCV: -20.80
+4603.7A- 7213.6A 2048 points, filter: 5 20 125 250 apodize 0.05 fit 0.7 best 8
+Temp:   fabtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.028 h:0.633 R:  11.28 CZ:  95.707 +/-  19.654 1 +tc
+Temp:   femtemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.334 h:0.091 R:   1.12 CZ: 2340.10 +/- 270.902 1 +hi -tf +tc
+Temp:      eltemp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.024 h:0.605 R:   8.51 CZ:  83.656 +/-  27.259 1
+Temp: fn4486btemp.fits vel: 1514.2  tsh:   0.00 HCV:   0.00 Peak:  -0.015 h:0.488 R:   6.76 CZ:  93.426 +/-  30.956 1
+Temp:    fglotemp.fits vel: -147.4  tsh:   0.00 HCV:   0.00 Peak:  -0.026 h:0.656 R:  11.36 CZ:  87.749 +/-  18.176 1
+Temp:    fm32temp.fits vel: -189.8  tsh:   0.00 HCV:   0.00 Peak:  -0.109 h:0.646 R:  11.37 CZ:  88.207 +/-  19.213 1
+Temp:    fztemp97.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:   0.030 h:0.618 R:  10.65 CZ:  96.930 +/-  20.515 1 +tc
+Temp:     fs2temp.fits vel: -12.15  tsh:   0.00 HCV:   0.00 Peak:   0.004 h:0.679 R:  12.48 CZ:  98.950 +/-  15.909 1
+Temp:    habtemp0.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.056 h:0.625 R:   9.01 CZ:  87.303 +/-  23.454 1 +tc
+Temp:   habtemp90.fits vel: 90000.0  tsh:   0.00 HCV:   0.00 Peak: 24653.9 h:0.202 R:   2.75 CZ: 170250.1 +/-  80.303 1 +tc
+Temp:  m31_k_temp.fits vel:   0.00  tsh:   0.00 HCV:   0.00 Peak:  -0.033 h:0.674 R:  11.64 CZ:  93.056 +/-  15.885 1
